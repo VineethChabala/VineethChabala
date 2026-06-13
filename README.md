@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm Vineeth Chabala 👋
 
-<!--
-**VineethChabala/VineethChabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineer** specializing in data-intensive IoT platforms and production-grade Machine Learning. I focus on building scalable end-to-end systems with robust architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+- 🚀 Currently working at **Agneyas Labs** as a Software Engineer, architecting diagnostics platforms and streaming data pipelines.
+- 🎓 B.Tech in Computer Science and Engineering from **IIITDM Kancheepuram** (Class of 2024, 8.3/10.0 CGPA).
+- 🧠 Strong focus on high-performance algorithms, Genetic Algorithms, Deep Learning, and real-time backend systems.
+- ✉️ Reach me at [vineeth.chabala@gmail.com](mailto:vineeth.chabala@gmail.com).
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, C, C++, SQL, Go, Dart |
+| **Backend & IoT** | Flask, Kafka, WebSocket, REST APIs |
+| **Frontend & Mobile** | Angular, Streamlit, Flutter |
+| **Machine Learning** | TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, NumPy, Pandas |
+| **Infrastructure & DevOps** | Docker, Kubernetes, Nginx, uWSGI, Git |
+| **Databases** | InfluxDB, MySQL, SQLite3, MSSQL |
+
+---
+
+### 🚀 Featured Projects
+
+* **Moodie AI** (`Python`, `Streamlit`, `TMDB API`)  
+  *Context-aware movie recommendation engine mapping complex emotional states to API queries with multi-factor filtering logic.*
+
+* **Solving Equal Piles Problem** (`Python`, `Genetic Algorithms`)  
+  *A hybrid optimization model combining Genetic Algorithms with Perturbed Local Search, achieving 76% performance gains.*
+
+* **Aquatic Animal Classification** (`TensorFlow`, `Keras`, `Flask`)  
+  *Computer vision classification suite comparing CNN, MobileNet V2, and ResNet50V2 architectures (82%+ accuracy).*
+
+* **Operator I** (`Flutter`, `Dart`, `Flask`)  
+  *Cross-platform mobile application for remote image processing and secure client-side permission management.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VineethChabala&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineeth's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineethChabala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/vineethchabala" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vineeth.chabala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
