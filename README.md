@@ -1,6 +1,9 @@
 # Hi there, I'm Vineeth Chabala 👋
 
+<!--
 I am a **Software Engineer** specializing in data-intensive IoT platforms and production-grade Machine Learning. I focus on building scalable end-to-end systems with robust architectures.
+-->
+I am a **Software Engineer** specializing in data-intensive IoT platforms, production-grade Machine Learning, and LLM-powered applications. I focus on building scalable end-to-end systems with robust architectures.
 
 ---
 
@@ -8,7 +11,10 @@ I am a **Software Engineer** specializing in data-intensive IoT platforms and pr
 
 - 🚀 Currently working at **Agneyas Labs** as a Software Engineer, architecting diagnostics platforms and streaming data pipelines.
 - 🎓 B.Tech in Computer Science and Engineering from **IIITDM Kancheepuram** (Class of 2024, 8.3/10.0 CGPA).
+<!--
 - 🧠 Strong focus on high-performance algorithms, Genetic Algorithms, Deep Learning, and real-time backend systems.
+-->
+- 🧠 Strong focus on building GPT-style transformers from scratch, deploying hybrid RAG pipelines, and engineering production-grade real-time systems.
 - ✉️ Reach me at [vineeth.chabala@gmail.com](mailto:vineeth.chabala@gmail.com).
 
 ---
