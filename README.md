@@ -18,6 +18,7 @@ I am a **Software Engineer** specializing in data-intensive IoT platforms and pr
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, JavaScript, TypeScript, C, C++, SQL, Go, Dart |
+| **LLM & Gen AI** | LangChain, ChromaDB, RAG, Hybrid Search, Cross-Encoder Reranking, Google Gemini API, Prompt Engineering, Sentence-Transformers, KeyBERT |
 | **Backend & IoT** | Flask, Kafka, WebSocket, REST APIs |
 | **Frontend & Mobile** | Angular, Streamlit, Flutter |
 | **Machine Learning** | TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, NumPy, Pandas |
@@ -28,17 +29,25 @@ I am a **Software Engineer** specializing in data-intensive IoT platforms and pr
 
 ### 🚀 Featured Projects
 
+* **GPT-Style LLM Built From Scratch** (`Python`, `PyTorch`, `Streamlit`)  
+  *A complete decoder-only Transformer architecture built from scratch in PyTorch, featuring a custom BPE tokenizer, multi-head causal self-attention, and end-to-end training for text generation.*
+
+* **RAG Chess Pipeline** (`Python`, `LangChain`, `ChromaDB`, `Streamlit`)  
+  *A hybrid Retrieval-Augmented Generation pipeline over the FIDE Laws of Chess, combining dense semantic retrieval (ChromaDB) and sparse keyword retrieval (BM25Okapi) with cross-encoder reranking.*
+
 * **Moodie AI** (`Python`, `Streamlit`, `TMDB API`)  
   *Context-aware movie recommendation engine mapping complex emotional states to API queries with multi-factor filtering logic.*
 
 * **Solving Equal Piles Problem** (`Python`, `Genetic Algorithms`)  
   *A hybrid optimization model combining Genetic Algorithms with Perturbed Local Search, achieving 76% performance gains.*
 
+<!--
 * **Aquatic Animal Classification** (`TensorFlow`, `Keras`, `Flask`)  
   *Computer vision classification suite comparing CNN, MobileNet V2, and ResNet50V2 architectures (82%+ accuracy).*
 
 * **Operator I** (`Flutter`, `Dart`, `Flask`)  
   *Cross-platform mobile application for remote image processing and secure client-side permission management.*
+-->
 
 ---
 
